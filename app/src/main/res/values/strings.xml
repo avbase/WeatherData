@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherData</string>
+    <string name="update_my_weather">Update my Weather</string>
+    <string name="icon_from_weather">icon from weather</string>
+</resources>
