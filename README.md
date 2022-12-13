@@ -6,7 +6,9 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 
-<img align="center" src="https://https://github.com/avbase/WeatherData/ru.avicorp.weatherdata.png" height="180" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+![](ru.avicorp.weatherdata.png)
+
+
 
 
 
