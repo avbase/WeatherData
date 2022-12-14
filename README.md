@@ -1,4 +1,4 @@
-# WeatherData (example of data acquisition using retrofit2 library from https://openweathermap.org):
+# WeatherData - example of data collection using the library retrofit2 (weather forecast from https://openweathermap.org):
 
 
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
